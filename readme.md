@@ -6,7 +6,7 @@
 
 <h3 align="center"><i>Keeping code efficiency at the peak.</i></h2>
 <p align="center">
-<strong>Discord:</strong> KR#6969
+<strong>Discord:</strong> KR#7700
 </p>
 <hr>
 <p align="center"><i>
