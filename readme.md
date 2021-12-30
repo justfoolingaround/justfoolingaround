@@ -11,4 +11,12 @@
 <hr>
 <p align="center"><i>
 Asynchronous Programming, Discord.py, Regular Expressions & High Level Web Scraping</i>
+
 </p>
+
+<hr>
+<details align="center">
+<summary>GitHub Metrics</summary>
+<img src="./github-metrics.svg">
+
+</details>
