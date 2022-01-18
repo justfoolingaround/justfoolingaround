@@ -42,7 +42,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -68,7 +68,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            914 Commits
+                            920 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -382,7 +382,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.94
+                            Average per day at ~2.96
                         </div>
                     </section>
                 </div>
@@ -2337,10 +2337,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.604651162790698 0,5.604651162790698 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.604651162790698 1.7,6.604651162790698 z"/>
                             </g>
-                            <g transform="translate(-3.4, 3.953488372093023)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.046511627906977 0,5.046511627906977 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.046511627906977 1.7,6.046511627906977 z"/>
+                            <g transform="translate(-3.4, 3.116279069767442)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.883720930232558 0,5.883720930232558 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.883720930232558 1.7,6.883720930232558 z"/>
                             </g>
                         </g>
                     </g>
@@ -2430,8 +2430,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#9ecd4cf</span>
-                                        <span class="message">Feat: Added `petpet` commands</span>
+                                        <span class="sha">#f85cc6b</span>
+                                        <span class="message">Chore: `30` is beyond perfect</span>
                                     </div>
                                 </div>
                             </section>
@@ -2450,8 +2450,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#51b716a</span>
-                                        <span class="message">Remove: animdl from imports</span>
+                                        <span class="sha">#930e6c8</span>
+                                        <span class="message">Fix: Transparent images</span>
                                     </div>
                                 </div>
                             </section>
@@ -2470,8 +2470,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#47d2904</span>
-                                        <span class="message">Fix: `pyyaml`</span>
+                                        <span class="sha">#2c24c21</span>
+                                        <span class="message">Feat: `delay` active now</span>
                                     </div>
                                 </div>
                             </section>
@@ -2490,8 +2490,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#8f21883</span>
-                                        <span class="message">Fix: Add `yaml` as requirements</span>
+                                        <span class="sha">#eb142ea</span>
+                                        <span class="message">Fix: Use `RGBA`</span>
                                     </div>
                                 </div>
                             </section>
@@ -2510,8 +2510,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#8059734</span>
-                                        <span class="message">Fix: `os` imported from wrong package</span>
+                                        <span class="sha">#b9267f0</span>
+                                        <span class="message">Fix: Image not `circular`</span>
                                     </div>
                                 </div>
                             </section>
@@ -3033,7 +3033,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2022, 22:08:13 (timezone Asia/Kathmandu) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 23:10:03 (timezone Asia/Kathmandu) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
