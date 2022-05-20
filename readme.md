@@ -20,3 +20,5 @@ Asynchronous Programming, Discord.py, Regular Expressions & High Level Web Scrap
 <img src="./github-metrics.svg">
 
 </details>
+
+![koji_x_fuka](https://user-images.githubusercontent.com/44473782/169545716-08e2cc66-2257-4f46-b6cf-58dd82fb2e55.png)
