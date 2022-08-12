@@ -2781,7 +2781,7 @@ This is because a Mega extractor hasn't yet been added and it could potentially 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 59.5k out of 332m repositories</span>
+                                    <span class="gh">ranked 59.5k out of 333m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 596 stars</div>
                             </div>
@@ -2827,7 +2827,7 @@ This is because a Mega extractor hasn't yet been added and it could potentially 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 181k out of 332m repositories</span>
+                                    <span class="gh">ranked 181k out of 333m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 56 times</div>
                             </div>
@@ -3147,7 +3147,7 @@ This is because a Mega extractor hasn't yet been added and it could potentially 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Aug 2022, 12:04:44 (timezone Asia/Kathmandu) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 12:59:28 (timezone Asia/Kathmandu) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
