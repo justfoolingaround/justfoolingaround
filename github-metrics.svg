@@ -2710,7 +2710,7 @@ This is because a Mega extractor hasn't yet been added and it could potentially 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.08m out of 95m users</span>
+                                    <span class="gh">ranked 1.08m out of 96m users</span>
                                 </div>
                                 <div class="text">Published 31 public repositories</div>
                             </div>
@@ -2878,7 +2878,7 @@ This is because a Mega extractor hasn't yet been added and it could potentially 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 107k out of 95m users</span>
+                                    <span class="gh">ranked 107k out of 96m users</span>
                                 </div>
                                 <div class="text">Followed by 70 users</div>
                             </div>
@@ -3146,7 +3146,7 @@ This is because a Mega extractor hasn't yet been added and it could potentially 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Aug 2022, 12:03:56 (timezone Asia/Kathmandu) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 12:59:48 (timezone Asia/Kathmandu) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
