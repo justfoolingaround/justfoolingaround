@@ -2787,7 +2787,7 @@ To make both work robustly, a webserver which would return the decrypted content
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 59.3k out of 335m repositories</span>
+                                    <span class="gh">ranked 59.4k out of 335m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 600 stars</div>
                             </div>
@@ -3153,7 +3153,7 @@ To make both work robustly, a webserver which would return the decrypted content
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Aug 2022, 02:01:15 (timezone Asia/Kathmandu) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 02:58:59 (timezone Asia/Kathmandu) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
