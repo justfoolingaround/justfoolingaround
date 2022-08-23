@@ -2744,7 +2744,7 @@ To make both work robustly, a webserver which would return the decrypted content
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.24824824824825 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.4034034034034 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2767,9 +2767,9 @@ To make both work robustly, a webserver which would return the decrypted content
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 59.2k out of 335m repositories</span>
+                                    <span class="gh">ranked 59.1k out of 335m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 602 stars</div>
+                                <div class="text">Maintaining a repository with 603 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3133,7 +3133,7 @@ To make both work robustly, a webserver which would return the decrypted content
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2022, 20:00:13 (timezone Asia/Kathmandu) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 21:11:51 (timezone Asia/Kathmandu) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
