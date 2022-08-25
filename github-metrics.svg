@@ -2875,7 +2875,7 @@ To make both work robustly, a webserver which would return the decrypted content
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 100k out of 96m users</span>
+                                    <span class="gh">ranked 101k out of 96m users</span>
                                 </div>
                                 <div class="text">Followed by 74 users</div>
                             </div>
@@ -3143,7 +3143,7 @@ To make both work robustly, a webserver which would return the decrypted content
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Aug 2022, 11:37:47 (timezone Asia/Kathmandu) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 12:15:23 (timezone Asia/Kathmandu) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
