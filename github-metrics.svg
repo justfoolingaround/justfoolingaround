@@ -2745,7 +2745,7 @@ The red ones signify that they are not working atm.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 59.1k out of 335m repositories</span>
+                                    <span class="gh">ranked 59.1k out of 336m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 604 stars</div>
                             </div>
@@ -2791,7 +2791,7 @@ The red ones signify that they are not working atm.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 179k out of 335m repositories</span>
+                                    <span class="gh">ranked 179k out of 336m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 57 times</div>
                             </div>
@@ -3111,7 +3111,7 @@ The red ones signify that they are not working atm.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2022, 11:42:15 (timezone Asia/Kathmandu) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 26 Aug 2022, 12:23:25 (timezone Asia/Kathmandu) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
